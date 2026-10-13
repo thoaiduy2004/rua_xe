@@ -1,0 +1,6 @@
+{
+  "name": "AutoWash PRO - Hệ Thống SCADA Rửa Xe Tự Động",
+  "description": "Hệ thống giám sát SCADA và điều khiển trạm rửa xe tự động công nghiệp AutoWash PRO với đo lường áp suất, hóa chất, động cơ và hàng đợi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
